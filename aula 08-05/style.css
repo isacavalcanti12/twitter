@@ -1,0 +1,48 @@
+body{
+    background-color: #c7bbbb;
+}
+.logo-twitter{
+color:  #00acee;
+}
+.entrar{
+    text-align: center;
+    }
+.logo-google{
+    border-radius: 50px;
+    height: 30px;
+    width: 300px;
+    margin: 15px;
+    margin-left: 12%;
+
+}
+.apple{
+    border-radius: 50px;
+    height: 30px;
+    width: 300px;
+    margin: 15px;
+    margin-left: 12%;
+
+}
+section{
+    width: 420px;
+    margin-top: 80px;
+    border-radius: 10px;
+    background-color: white;
+}
+.avançar{
+    height: 30px;
+    width: 300px;
+    margin: 15px;
+    border-radius: 50px;
+    background-color:  rgb(98, 94, 94);
+    margin-left: 12%;
+
+}
+.Senha{
+    height: 30px;
+    width: 300px;
+    margin: 15px;
+    border-radius: 50px;
+    margin-left: 12%;
+}
+
